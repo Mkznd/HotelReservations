@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+starlette
+python-dotenv
+requests
+sqlalchemy
+alembic
