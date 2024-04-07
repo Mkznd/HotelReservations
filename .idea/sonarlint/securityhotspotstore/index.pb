@@ -33,8 +33,6 @@ D
 user/dto/__init__.py,6\1\61dffacd44df1e8187a75959de12ccb3b1ad1e7e
 A
 migrations/env.py,1\d\1d5e98f855877457efdcea5bdbf1b44bb25f16f9
-4
-.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 ;
 alembic.ini,d\8\d84513684d01938b65661cf0358065b11872e9bf
 ]
@@ -49,3 +47,5 @@ I
 migrations/script.py.mako,2\2\2271d770709026da8abd2dc327625dceb8d32bb5
 A
 migrations/README,8\b\8b9948ccb252e634d14f6b7f949d2e629f6f8f2a
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a

@@ -1,7 +1,9 @@
-fastapi
+fastapi~=0.110.0
 uvicorn
 starlette
-python-dotenv
+python-dotenv~=1.0.1
 requests
-sqlalchemy
-alembic
+sqlalchemy~=2.0.28
+alembic~=1.13.1
+pydantic~=2.6.3
+psycopg2
